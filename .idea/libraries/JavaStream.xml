@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaStream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaStream.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
